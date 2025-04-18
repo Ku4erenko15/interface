@@ -1,0 +1,7 @@
+D:\215\задание 5\bin\Debug\задание 5.exe.config
+D:\215\задание 5\bin\Debug\задание 5.exe
+D:\215\задание 5\bin\Debug\задание 5.pdb
+D:\215\задание 5\obj\Debug\задание 5.csproj.AssemblyReference.cache
+D:\215\задание 5\obj\Debug\задание 5.csproj.CoreCompileInputs.cache
+D:\215\задание 5\obj\Debug\задание 5.exe
+D:\215\задание 5\obj\Debug\задание 5.pdb
